@@ -1,0 +1,10 @@
+export enum ActivityEnum {
+  LOGIN,
+  LOGIN_FAILED,
+  LOGOUT,
+  LOGOUT_FAILED,
+  SWIPE_RIGHT,
+  SWIPE_LEFT,
+  MATCH,
+  VIEW_PROFILE,
+}
